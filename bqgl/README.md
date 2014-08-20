@@ -1,3 +1,3 @@
 Hospital Information System
 =========
-病区管理模块
+鐥呭尯绠＄悊
